@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "maris16"         # 用户名
 UUID = "22f9d0c5-276e-41ef-b2b9-18d9ae1d9c51"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "zmaris.18top.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "marisz.18top.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOTIxNzE1NWI5MDcxZWRmOGRhYjgzOTEwYzM2NTc4ODUiLCJ0IjoiNmEyZGVjMTctMmJkMy00ZWYwLWI5MTQtY2NjZGI5MjU0Y2RmIiwicyI6Ik1USXdOekJoWmprdE9XSXhaQzAwTldNd0xXRmxNR1V0TTJNMlkyTTNaR0k0TkROaCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
